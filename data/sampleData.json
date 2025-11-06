@@ -1,0 +1,56 @@
+{
+  "invoiceSample": {
+    "templateName": "invoice",
+    "data": {
+      "invoiceNumber": "INV-2025-001",
+      "date": "2025-11-06",
+      "dueDate": "2025-12-06",
+      "customer": {
+        "name": "John Doe",
+        "address": "456 Customer Avenue",
+        "city": "Client City, State 54321",
+        "phone": "(555) 123-4567"
+      },
+      "items": [
+        {
+          "description": "Product A",
+          "quantity": 2,
+          "unitPrice": 100.00
+        },
+        {
+          "description": "Service B",
+          "quantity": 5,
+          "unitPrice": 75.50
+        },
+        {
+          "description": "Maintenance C",
+          "quantity": 1,
+          "unitPrice": 250.00
+        }
+      ],
+      "subtotal": 727.50,
+      "tax": 72.75,
+      "total": 800.25,
+      "notes": "Payment is due within 30 days. Thank you for your business!"
+    }
+  },
+  "receiptSample": {
+    "templateName": "receipt",
+    "data": {
+      "receiptNumber": "REC-2025-001",
+      "date": "2025-11-06",
+      "customer": {
+        "name": "Jane Smith",
+        "phone": "(555) 987-6543"
+      },
+      "items": [
+        {
+          "description": "Service Payment",
+          "amount": 500.00
+        }
+      ],
+      "paymentMethod": "Credit Card",
+      "total": 500.00
+    }
+  }
+}
