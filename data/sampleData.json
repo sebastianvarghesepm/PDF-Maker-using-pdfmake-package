@@ -1,10 +1,29 @@
 {
+  "companyInfo": {
+    "name": "Your Company Name",
+    "address": "123 Business Street\nCity, State 12345",
+    "phone": "(555) 555-5555",
+    "email": "contact@yourcompany.com",
+    "website": "www.yourcompany.com",
+    "footer": "Thank you for choosing our services!",
+    "logo": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png"
+  },
   "invoiceSample": {
     "templateName": "invoice",
     "data": {
+      "documentNumber": "INV-2025-001",
       "invoiceNumber": "INV-2025-001",
       "date": "2025-11-06",
       "dueDate": "2025-12-06",
+      "companyInfo": {
+        "name": "Your Company Name",
+        "address": "123 Business Street\nCity, State 12345",
+        "phone": "(555) 555-5555",
+        "email": "contact@yourcompany.com",
+        "website": "www.yourcompany.com",
+        "footer": "Thank you for choosing our services!",
+        "logo": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png"
+      },
       "customer": {
         "name": "John Doe",
         "address": "456 Customer Avenue",
@@ -34,23 +53,361 @@
       "notes": "Payment is due within 30 days. Thank you for your business!"
     }
   },
-  "receiptSample": {
-    "templateName": "receipt",
+  "purchaseOrderSample": {
+    "templateName": "purchaseOrder",
     "data": {
-      "receiptNumber": "REC-2025-001",
-      "date": "2025-11-06",
-      "customer": {
-        "name": "Jane Smith",
-        "phone": "(555) 987-6543"
+      "companyInfo": {
+        "name": "RIXOS HOLIDAY HOMES LLC",
+        "title": "THE PALM DUBAI HOTEL & SUITES",
+        "trn": "100494511000003",
+        "deliveryTo": "The Palm Jumeirah Crescent East, Plot-C40-1, P.O.Box 18652, Dubai, UAE",
+        "phone": "+971 4 4575555",
+        "website": "http://www.rixos.com",
+        "logo": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png"
+      },
+      "supplierInfo": {
+        "name": "PROMWELL FOR GENERAL STORES EQUIPMENT",
+        "address": "Shop no.4, Masfout 14, Masfout, Ajman, UAE",
+        "phone": ""
+      },
+      "orderInfo": {
+        "number": "B202511-17579",
+        "date": "2025-11-03",
+        "costCentre": "130-Palm Suites Turquoise",
+        "requestNo": "135-96164",
+        "deliveryDate": "2025-12-03"
       },
       "items": [
         {
-          "description": "Service Payment",
-          "amount": 500.00
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
+        },
+        {
+          "article": "Rubber Floor Mat 3M/1M",
+          "unit": "Each",
+          "qty": 1,
+          "unitPrice": 950.0,
+          "vatPercent": 5,
+          "vatValue": 47.5,
+          "total": 997.5
         }
       ],
-      "paymentMethod": "Credit Card",
-      "total": 500.00
+      "summary": {
+        "orderTotal": 950.0,
+        "vatTotal": 47.5,
+        "grossTotal": 997.5
+      }
     }
   }
 }
