@@ -1145,3 +1145,6 @@
 {"level":"info","message":"PDF service listening at http://localhost:3000","timestamp":"2025-11-09T13:49:43.397Z"}
 {"level":"info","message":"Generating PDF with template: quotation","timestamp":"2025-11-09T13:49:46.727Z"}
 {"level":"info","message":"PDF generated successfully: E:\\Pdf Maker\\output\\document.pdf","timestamp":"2025-11-09T13:49:55.407Z"}
+{"level":"info","message":"PDF service listening at http://localhost:3000","timestamp":"2025-11-09T13:50:20.437Z"}
+{"level":"info","message":"Generating PDF with template: quotation","timestamp":"2025-11-09T13:50:24.358Z"}
+{"level":"info","message":"PDF generated successfully: E:\\Pdf Maker\\output\\document.pdf","timestamp":"2025-11-09T13:50:25.850Z"}
