@@ -1003,5 +1003,246 @@
         "grossTotal": 26085.85
       }
     }
+  },
+  "quotationSample": {
+    "templateName": "quotation",
+    "data": {
+      "documentTitle": "QUOTATION",
+      "companyInfo": {
+        "name": "PROMWELL FOR GENERAL STORES EQUIPMENT AND INSTALLATIONS TRADING LLC",
+        "address": "Shop no.4, Masfout 14, Masfout, Ajman, UAE",
+        "phone": "+971 4 348 8955, +971 55 1500 465",
+        "email": "sales@promwell.ae",
+        "trn": "104034049700003",
+        "logo": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png"
+      },
+      "clientInfo": {
+        "name": "Mr. Anish",
+        "address": "Khansaheb Property Management LLC, Dubai, UAE"
+      },
+      "quotationInfo": {
+        "number": "QT2025110458",
+        "date": "06/11/2025",
+        "terms": "As Agreed",
+        "currency": "AED",
+        "salesman": "Mr. Sreeram"
+      },
+      "items": [
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "Supply & Installation of Roman Blind Curtains with Rails & Chains\nSticks In between the Fabrics\nSize - 120 W x 92 H cms",
+          "qty": 2,
+          "price": 375.0,
+          "amount": 750.0
+        },
+        {
+          "image": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png",
+          "description": "TV Cover with Elastic Using Outdoor Waterproof Sunproof Fabric\nSize - 146 W x 83 H cms",
+          "qty": 1,
+          "price": 360.0,
+          "amount": 360.0
+        }
+      ],
+      "summary": {
+        "totalAmount": 1110.0,
+        "vatAmount": 55.5,
+        "netAmount": 1165.5
+      },
+      "terms": [
+        "Payment: After Delivery",
+        "Price Reserved for above Specified Quantity",
+        "Bank Details: ADCB Bank, A/C # 12741306920001, IBAN # AE600300012741306920001",
+        "Delivery: 8-10 Days from the Order Confirmation. 8-10 Weeks if out of Stock",
+        "Exclusions: Any variations from the approved sample and design will be charged additional.",
+        "Validity: 7 days / Subject to Prior Sale"
+      ],
+      "footer": {
+        "contactPerson": "Sreeram",
+        "phone": "+971 551500465",
+        "business": "Business Solutions"
+      }
+    }
   }
 }

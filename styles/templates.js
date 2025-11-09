@@ -44,3 +44,18 @@ export const statementOfAccountStyles = {
     footerTotals: { fontSize: 9, margin: [0, 2, 0, 0] },
     footerTotalsBold: { fontSize: 10, bold: true, margin: [0, 4, 0, 0] }
 };
+export const quotationStyles = {
+    ...baseStyles,
+    companyName: { fontSize: 10, bold: true, margin: [0, 0, 0, 2] },
+    companyAddress: { fontSize: 7 },
+    companySmall: { fontSize: 7 },
+    documentTitle: { fontSize: 8, bold: true, margin: [0, 0, 0, 0] },
+    infoText: { fontSize: 8, margin: [0, 0, 0, 0] },
+    tableHeader: { fontSize: 9, bold: true },
+    totalsLabel: { fontSize: 9 },
+    totalsLabelBold: { fontSize: 9, bold: true },
+    totalsValue: { fontSize: 9 },
+    totalsValueBold: { fontSize: 10, bold: true },
+    footerTotals: { fontSize: 9, margin: [0, 2, 0, 0] },
+    footerTotalsBold: { fontSize: 10, bold: true, margin: [0, 4, 0, 0] },
+};
