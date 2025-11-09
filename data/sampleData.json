@@ -409,5 +409,599 @@
         "grossTotal": 997.5
       }
     }
+  },
+  "statementOfAccountSample": {
+    "templateName": "statementOfAccount",
+    "data": {
+      "documentTitle": "STATEMENT OF ACCOUNT",
+      "accountName": "Bab Al Shams",
+      "statementDate": "21/10/2025",
+      "companyInfo": {
+        "name": "PROMWELL FOR GENERAL STORES EQUIPMENT AND INSTALLATIONS TRADING LLC",
+        "address": "Shop no.4, Masfout 14, Masfout, Ajman, United Arab Emirates",
+        "phone": "+971 4 348 8955, +971 55 1500 465",
+        "trn": "104034049700003",
+        "logo": "https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png"
+      },
+      "items": [
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        },
+        {
+          "docNo": "CR2025025",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 4180.00,
+          "vatAmt": 209.00,
+          "totalAmt": 4389.00
+        },
+        {
+          "docNo": "CR2025026",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Bar - Liquor/Store",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 2790.00,
+          "vatAmt": 139.50,
+          "totalAmt": 2929.50
+        },
+        {
+          "docNo": "CR2025027",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Spare Cash Drawer",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 1729.00,
+          "vatAmt": 86.45,
+          "totalAmt": 1815.45
+        },
+        {
+          "docNo": "CR2025028",
+          "date": "21/10/2025",
+          "party": "Bab Al Shams",
+          "narration": "Curtain & Fittings",
+          "po": "000534579-3",
+          "remarks": "Delivered",
+          "billAmt": 17478.00,
+          "vatAmt": 873.90,
+          "totalAmt": 18351.90
+        }
+      ],
+      "summary": {
+        "billTotal": 24677.00,
+        "vatTotal": 1408.85,
+        "grossTotal": 26085.85
+      }
+    }
   }
 }
