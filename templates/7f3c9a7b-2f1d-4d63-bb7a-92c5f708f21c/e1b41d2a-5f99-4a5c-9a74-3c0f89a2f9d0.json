@@ -1,0 +1,77 @@
+{
+    "pageSize": "A4",
+    "pageMargins": [
+        40,
+        60,
+        40,
+        60
+    ],
+    "header": {
+        "columns": [
+            {
+                "text": "{{ data.companyInfo.name }}",
+                "style": "companyName"
+            },
+            {
+                "text": "Page {{ data.page }}",
+                "alignment": "right"
+            }
+        ],
+        "margin": [
+            40,
+            10,
+            40,
+            10
+        ]
+    },
+    "content": [
+        {
+            "text": "SAMPLE REPORT",
+            "style": "header",
+            "alignment": "center"
+        },
+        {
+            "text": "Customer: {{ data.customer.name }}"
+        },
+        {
+            "text": "Date: {{ data.date }}"
+        },
+        {
+            "table": {
+                "headerRows": 1,
+                "widths": [
+                    "*",
+                    "auto",
+                    "auto"
+                ],
+                "body": [
+                    [
+                        "Description",
+                        "Qty",
+                        "Amount"
+                    ],
+                    [
+                        "Item A",
+                        "1",
+                        "100.00"
+                    ],
+                    [
+                        "Item B",
+                        "2",
+                        "50.00"
+                    ]
+                ]
+            }
+        }
+    ],
+    "styles": {
+        "header": {
+            "fontSize": 16,
+            "bold": true
+        },
+        "companyName": {
+            "fontSize": 12,
+            "bold": true
+        }
+    }
+}

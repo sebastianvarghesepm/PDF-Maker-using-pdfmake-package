@@ -2,13 +2,12 @@ import express from 'express';
 import cors from 'cors';
 import winston from 'winston';
 import dotenv from 'dotenv';
-import { PdfService } from './src/pdfService.js';
+import pdfRoutes from './routes/pdfRoutes.js';
 
 dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 3000;
-const pdfService = new PdfService();
 
 // Configure logger
 const logger = winston.createLogger({
@@ -33,38 +32,12 @@ if (process.env.NODE_ENV !== 'production') {
 app.use(cors());
 app.use(express.json());
 
+// New API routes (primary endpoint for JSON-driven PDF generation)
+app.use('/api', pdfRoutes);
+
 // Health check endpoint
 app.get('/health', (req, res) => {
     res.json({ status: 'healthy' });
-});
-
-// Generate PDF endpoint
-app.post('/generate-pdf', async (req, res) => {
-    try {
-        const { templateName, data } = req.body;
-
-        if (!templateName || !data) {
-            return res.status(400).json({
-                error: 'Missing required fields: templateName and data are required'
-            });
-        }
-
-        logger.info(`Generating PDF with template: ${templateName}`);
-        const result = await pdfService.generatePdf(templateName, data);
-
-        logger.info(`PDF generated successfully: ${result.filePath}`);
-        res.json({
-            success: true,
-            filePath: result.filePath,
-            base64: result.base64
-        });
-    } catch (error) {
-        logger.error('PDF generation failed:', error);
-        res.status(500).json({
-            error: 'Failed to generate PDF',
-            details: error.message
-        });
-    }
 });
 
 // Start server
